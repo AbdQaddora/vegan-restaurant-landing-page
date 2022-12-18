@@ -15,7 +15,7 @@ const GridSection = ({ title, shortDesc, desc, img }) => {
                         <Button>Read more</Button>
                     </div>
                     <div className='grid-section__image_container'>
-                        <img src={img} alt="grid section Image" />
+                        <img src={img} alt="grid section" />
                     </div>
                 </div>
             </Container>
